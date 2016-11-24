@@ -1,12 +1,3 @@
 {
-    "name": "VaporApp",
-    "scripts": {},
-    "env": {},
-    "formation": {},
-    "addons": [],
-    "buildpacks": [
-        {
-            "url": "https://github.com/vapor/heroku-buildpack"
-        }
-    ]
+	"key": "default-key"
 }
